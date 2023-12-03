@@ -11,7 +11,7 @@ title: Gallery
 <div>
 <img src="/images/M3S_photo.JPG">
 </div>
-<br>Participated in Supramolecular Science Symposium (Hangzhou, China) and took photos with Sir J. Fraser Stoddart (The Nobel Prize winner in Chemistry 2016).
+<br>Participated in Supramolecular Science Symposium (Hangzhou, China) and took photos with [Sir J. Fraser Stoddart (The Nobel Prize winner in Chemistry 2016)](https://www.nobelprize.org/prizes/chemistry/2016/stoddart/facts/).
 
 ## Participated in Supramolecular Science Symposium
 10/2023 *Instructor: Zhanxiang LIU*
