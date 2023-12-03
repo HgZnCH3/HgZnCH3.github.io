@@ -33,7 +33,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 - Biotechnology
 - Machine Learning
 
-My current research focuses on analytical chemistry and in vitro diagnosis, but what really attracts me are **Artificial Photosynthesis** and **Bioelectronics**. These technologies are expected to greatly reshape human society. I hope to devote myself to these significant research projects and promote social development.
+My current research focuses on analytical chemistry and *in vitro* diagnosis, but what really attracts me are **Artificial Photosynthesis** and **Bioelectronics**. These technologies are expected to greatly reshape human society. I hope to devote myself to these significant research projects and promote social development.
 
 <br>
 
