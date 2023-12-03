@@ -22,7 +22,7 @@ title: Gallery
 </div>
 <font color='grey'>Team photo (left figure, the first one from the left is me)</font>
 <br>
-Won the First Place for “the 15th Shanghai College Student Chemistry Experiment Competition” and addressed as the representative of the award-winning student (right figure).
+Won the First Place for “the $15^{th}$ Shanghai College Student Chemistry Experiment Competition” and addressed as the representative of the award-winning student (right figure).
 <br>
 
 ## Water Rocket Competition of ZJU
