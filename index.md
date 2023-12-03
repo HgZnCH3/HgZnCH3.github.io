@@ -4,11 +4,11 @@ layout: page
 
 # About Me
 
-<img src="hzc.jpg" class="floatpic" width="540" height="360">
+<img src="hzc.jpg" class="floatpic" width="720" height="480">
 
-Welcome to my website :)
+Welcome to my website : )
 
-Here is **Zichen Hong (洪子宸)**, a graduate student from Department of Chemistry, Zhejiang University. Currently, I work as a research assistant in the IIoT-Lab, advised by [Prof. Bo YAO](https://www.researchgate.net/profile/Bo-Yao-17) and [Prof. Guangzhong Ma](https://www.researchgate.net/profile/Guangzhong-Ma).
+Here is **Zichen Hong (洪子宸)**, a graduate student from Department of Chemistry, Zhejiang University, advised by [Prof. Bo YAO](https://www.researchgate.net/profile/Bo-Yao-17) and [Prof. Guangzhong Ma](https://www.researchgate.net/profile/Guangzhong-Ma).
 
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at *zhchenh@zju.edu.cn*
 
