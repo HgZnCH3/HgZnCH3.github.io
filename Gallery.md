@@ -9,9 +9,9 @@ title: Gallery
 ## Participated in Supramolecular Science Symposium
 05/2023 *ZJU-Hangzhou Global Scientific and Technological Innovation Center*
 <div>
-<img src="/images/M3S_photo.JPG">
+<img src="/images/M3S_photo.ipg">
 </div>
-<br>Participated in Supramolecular Science Symposium (Hangzhou, China) and took photos with Sir J. Fraser Stoddart (The Nobel Prize winner in Chemistry 2016).
+<br>Participated in Supramolecular Science Symposium (Hangzhou, China) and took photos with [Sir J. Fraser Stoddart (The Nobel Prize winner in Chemistry 2016)](https://www.nobelprize.org/prizes/chemistry/2016/stoddart/facts/).
 
 ## Participated in Supramolecular Science Symposium
 10/2023 *Instructor: Zhanxiang LIU*
@@ -26,7 +26,7 @@ title: Gallery
 ## Water Rocket Competition of ZJU
 05/2021 *Teammate: Lei HUANG, Xiaobo ZHANG*
 <div>
-<img src="/images/water_rocket.JPG">
+<img src="/images/water_rocket.jpg">
 </div>
 <font color='grey'>2021 Water Rocket Competition of ZJU. (The sixth person from the right in the first row is me)</font>
 <br>
