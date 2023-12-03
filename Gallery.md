@@ -18,10 +18,12 @@ title: Gallery
 <div>
 <img src="/images/water_rocket.JPG">
 </div>
-2021 Water Rocket Competition of ZJU. (The sixth person from the right in the first row is me)
-<br>Water rockets use water and compressed air as engine power. Participants are required to use the same materials to manufacture water rockets and achieve the farthest flight distance.
-<br>Our rocket flew at a horizontal distance of **132.9 m and won first place**! (Teammate: Lei HUANG, Xiaobo ZHANG)
+<font color='grey'>2021 Water Rocket Competition of ZJU. (The sixth person from the right in the first row is me)</font>
+<br>
+<br>
+Water rockets use water and compressed air as engine power. Participants are required to use the same materials to manufacture water rockets and achieve the farthest flight distance.<br>
 
+Our rocket flew at a horizontal distance of **132.9 m and won first place**! (Teammate: Lei HUANG, Xiaobo ZHANG)
 
 
 
