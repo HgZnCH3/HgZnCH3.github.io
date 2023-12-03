@@ -16,7 +16,7 @@ title: Gallery
 ## Water Rocket Competition of ZJU
 05/2021 
 <div>
-<img src="/images/prelection1.JPG">
+<img src="/images/water_rocket.JPG">
 </div>
 2021 Water Rocket Competition of ZJU. (The sixth person from the right in the first row is me)
 <br>Water rockets use water and compressed air as engine power. Participants are required to use the same materials to manufacture water rockets and achieve the farthest flight distance.
