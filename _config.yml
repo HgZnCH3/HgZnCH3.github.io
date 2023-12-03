@@ -8,11 +8,11 @@ url: https://HgZnCH3.github.io/
 owner:
   name: Zichen Hong
 
-  avatar: id_photo.jpg
+  avatar: wangmiao.jpg
 
   bio: 
   email: zhchenh@zju.edu.cn
-  cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
+  cv: https://HgZnCH3.github.io/file/Resume_hzc_1125.doc
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   #twitter: lancecai2002
   github: HgZnCH3
@@ -44,14 +44,14 @@ links:
     url: /publications/
   - title: Awards
     url: /awards/
-  - title: Teams
-    url: /teams/
-  - title: Blogs
-    url: /blogs/
+  #- title: Teams
+  #  url: /teams/
+  #- title: Blogs
+  #  url: /blogs/
   - title: Gallery
     url: /Gallery/
   #- title: Notes
-    #url: /notes/
+  # url: /notes/
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
