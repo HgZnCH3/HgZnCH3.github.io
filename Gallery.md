@@ -6,26 +6,23 @@ title: Gallery
 
 # Gallery
 
-## Swimming & Surfing
-
-<div class="third">
-<img src="/images/swimming2.JPG">
-<img src="/images/swimming.JPG">
-<img src="/images/surfing1.JPG">
+## Participated in Supramolecular Science Symposium
+05/2023
+<div>
+<img src="/images/M3S_photo.JPG">
 </div>
-<br>Swimming removes my worries, refreshes my body, and brings me courage to address any challenges. I extremely enjoy the feeling of being immersed in the water. Besides, I am a member of the Swimming Team at Fuzhou University, where I meet many sincere friends. I have reached **China National Second-level athlete Standard** in 50m breaststroke and won **Five Gold Medals** during my 10-year swimming career. Recently, I am also keen on surfing.
+<br>Participated in Supramolecular Science Symposium (Hangzhou, China) and took photos with Sir J. Fraser Stoddart (The Nobel Prize winner in Chemistry 2016).
 
-## Workshop
-
-<div class="third">
+## Water Rocket Competition of ZJU
+05/2021 
+<div>
 <img src="/images/prelection1.JPG">
-<img src="/images/speech1.JPG">
-<img src="/images/speech3.JPG">
 </div>
-<br>There must be **something truly magical** about standing on stage to give [a fantastic speech], which considerably lifts my spirits and energizes my entire body. If you desire to master a specific knowledge in depth, just give a prelection. If you can explain to others for complete understanding, you are already an expert. I really enjoy the accomplishment of imparting my knowledge to others, so what I strive for is to be **a student's favorite professor** at the [best universities in my hometown].
+2021 Water Rocket Competition of ZJU. (The sixth person from the right in the first row is me)
+<br>Water rockets use water and compressed air as engine power. Participants are required to use the same materials to manufacture water rockets and achieve the farthest flight distance.
+<br>Our rocket flew at a horizontal distance of **132.9 m and won first place**! (Teammate: Lei HUANG, Xiaobo ZHANG)
 
-[a fantastic speech]:https://youtu.be/Dzx84KpGNoE
-[best universities in my hometown]:https://www.fzu.edu.cn/
+
 
 
 ## Past Hobbies
@@ -41,13 +38,5 @@ This is my love. Her name is Qbo (Q宝).
 </div>
 <br>
 
-## Chat with me
 
-**Jan 2023:** I have set up the [online-coffee-time](https://calendly.com/lancecai/meet-with-lance) (Inspired by **[Shangzhe Wu](https://elliottwu.com/)**). Welcome to chat with me!
-
-<!-- Calendly inline widget begin -->
-
-<div class="calendly-inline-widget" data-url="https://calendly.com/lancecai/meet-with-lance" style="min-width:320px;height:630px;"></div>
-<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
-<!-- Calendly inline widget end -->
 
