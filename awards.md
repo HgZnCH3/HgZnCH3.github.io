@@ -18,7 +18,7 @@ Lastest Update: 12/2023 &nbsp; [中文版本 (Chinese Version)](https://HgZnCH3
 
 ## Competitions
 
-- 2021: **<font color='red'>First Place</font>** for “the 15th Shanghai College Student Chemistry Experiment Competition” in Shanghai
+- 2021: **<font color='red'>First Place</font>** for [“the 15th Shanghai College Student Chemistry Experiment Competition”](http://chemcenter.zju.edu.cn/2021/1023/c41394a2433822/page.htm) in Shanghai
 - 2017: Second Prize of the 31st Chinese Chemistry Olympiad (Zhejiang Province)	
 
 ## Honors
