@@ -43,8 +43,8 @@ My current research focuses on analytical chemistry and *in vitro* diagnosis, bu
 
 - **Nov 2023：**Honored to receive the China National Petroleum Corporation (CNPC) Scholarship.
 - **Nov 2023：**To be awarded the Outstanding Graduate Student.
-- **May 2023：**Participated in Supramolecular Science Symposium and took photos with [Sir J. Fraser Stoddart (The Nobel Prize winner in Chemistry 2016)](https://www.nobelprize.org/prizes/chemistry/2016/stoddart/facts/).
-- **Feb 2023：**One paper was accepted by ACS Sonsers!
+- **May 2023：**Participated in Supramolecular Science Symposium and took photos with [**Sir J. Fraser Stoddart** (The Nobel Prize winner in Chemistry 2016)](https://www.nobelprize.org/prizes/chemistry/2016/stoddart/facts/).
+- **Feb 2023：**One paper was accepted by *ACS Sonsers*!
 
 
 <br>
