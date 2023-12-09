@@ -78,7 +78,7 @@ Our rocket flew at a horizontal distance of **132.9 m** and **won first place!**
 <div>
 <img src="/images/v_teaching.jpg" width="810" height="540">
 </div>
-<font color='grey'>In science class, pupils were observing the decomposition of hydrogen peroxide in test tubes to acquaint the catalysis of enzymes.</font>
+<font color='grey'>In science class, pupils were observing the decomposition of hydrogen peroxide in test tubes to acquaint the catalysis of enzymes. Photo taken by Jingjing HU. </font>
 <br>
 In the summer of 2019, I went to Xulao Primary School in Anhui Province with Summer Teaching Support Team of Peasant Rural and Agriculture Association (PRAA) of ZJU. I spent 3 weeks there and acted as a fourth & fifth grade science teacher. Our team finally won the Gold Award for [“China Education Support Project: Chinese College Students Rural Teaching Support Award”](https://www.zhixingjihua.com/news_details.asp?classid=1&id=208) (only two teams nationwide won this prize).<br>
 <br>
