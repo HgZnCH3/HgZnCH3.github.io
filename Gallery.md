@@ -45,6 +45,18 @@ Our rocket flew at a horizontal distance of **132.9 m** and **won first place!**
 
 ---
 
+## Chemistry Knowledge Competition
+**05/2021** *Teammate: Xiaobo ZHANG*
+<div>
+<img src="/images/lisheng-1.png" >
+</div>
+<font color='grey'>We won the Second Prize in the 9th "Lisheng Cup" Chemistry Knowledge Competition of ZJU. This is a photo of our team during the competition (The second & third person from the right: Z.H. & X.Z.)</font>
+
+
+
+---
+
+
 ## Study Aids: Vedios for Young Students
 **2019 Fall** 
 <div>
