@@ -21,9 +21,9 @@ title: Gallery
 
 ## Shanghai College Student Chemistry Experiment Competition
 **10/2023** *Instructor: Zhanxiang LIU*
-<div class="first">
-<img src="/images/shanghai_2.jpg" width="240" height="180">
-<img src="/images/shanghai_1.jpg" width="240" height="180">
+<div class="half">
+<img src="/images/shanghai_2.jpg" >
+<img src="/images/shanghai_1.jpg" >
 </div>
 <font color='grey'>Team photo (left figure, the first one from the left is me). Speech as an representative (right figure)</font>
 <br>
@@ -34,10 +34,11 @@ In the [“15th Shanghai College Student Chemistry Experiment Competition”](ht
 
 ## Water Rocket Competition
 **05/2021** *Teammate: Lei HUANG, Xiaobo ZHANG*
-<div>
-<img src="/images/water_rocket_1.jpg" width="960" height="540">
+<div class="half">
+<img src="/images/water_rocket_2.jpg" >
+<img src="/images/water_rocket_1.jpg" >
 </div>
-<font color='grey'>Acted as the team leader and won first place in 2021 Water Rocket Competition of ZJU. (The sixth person from the right in the first row is me)</font>
+<font color='grey'>Left: water rocket is being launched. Right: Group photo of all participants and staff in 2021 Water Rocket Competition of ZJU. (The sixth & seventh person from the right in the first row: Z.H. & L.H.)</font>
 <br>
 Water rockets use water and compressed air as engine power. Participants are required to use the same materials to manufacture water rockets and achieve the farthest flight distance.<br>
 
@@ -45,17 +46,14 @@ Our rocket flew at a horizontal distance of **132.9 m** and **won first place!**
 
 ---
 
-## Chemistry Knowledge Competition
+## "Lisheng Cup" Chemistry Knowledge Competition
 **05/2021** *Teammate: Xiaobo ZHANG*
 <div>
 <img src="/images/lisheng-1.png" >
 </div>
-<font color='grey'>We won the Second Prize in the 9th "Lisheng Cup" Chemistry Knowledge Competition of ZJU. This is a photo of our team during the competition (The second & third person from the right: Z.H. & X.Z.)</font>
-
-
+<font color='grey'>We won the Second Prize in the 9th "Lisheng Cup" Chemistry Knowledge Competition of ZJU. This is a photo of our team during the competition. (The second & third person from the right: Z.H. & X.Z.)</font>
 
 ---
-
 
 ## Study Aids: Vedios for Young Students
 **2019 Fall** 
