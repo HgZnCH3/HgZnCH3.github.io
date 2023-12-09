@@ -55,6 +55,15 @@ Our rocket flew at a horizontal distance of **132.9 m** and **won first place!**
 
 ---
 
+## Science Popularization
+**11/2019** *Hangzhou Wenli Primary School*
+<div>
+<img src="/images/primary_school_1.jpg" width="720" height="480">
+</div>
+<font color='grey'>I led pupils from Hangzhou Wenli Primary School and Zhejiang University Affiliated Second Primary School to conduct experiments.</font>
+
+---
+
 ## Study Aids: Vedios for Young Students
 **2019 Fall** 
 <div>
