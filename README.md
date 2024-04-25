@@ -1,4 +1,4 @@
-Personal website from Hanlin Cai (Lance, 蔡汉霖)
+Personal website from Zichen Hong
 
 ## Statement
 
