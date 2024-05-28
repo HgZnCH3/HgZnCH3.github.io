@@ -8,7 +8,7 @@ layout: page
 
 Welcome to my website : )
 
-Here is **Zichen Hong (洪子宸)**, a graduate student from Department of Chemistry, Zhejiang University, advised by [Prof. Bo YAO](https://www.researchgate.net/profile/Bo-Yao-17) and [Prof. Guangzhong Ma](https://www.researchgate.net/profile/Guangzhong-Ma).
+Here is **Zichen Hong**, a graduate student from Department of Chemistry, Zhejiang University, advised by [Prof. Bo YAO](https://www.researchgate.net/profile/Bo-Yao-17) and [Dr. Guangzhong MA](https://www.researchgate.net/profile/Guangzhong-Ma).
 
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at *zhchenh@zju.edu.cn*
 
@@ -18,8 +18,8 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 **I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
 
-- **Sep 2022 - June 2025:** Zhejiang University (*M.S.*)
-- **Sep 2018 - June 2022:** Zhejiang University (*B.S.*)
+- **Sep 2022 - June 2025:** Zhejiang University (*M.S.*) GPA: 90.6/100; Rank: 1/80
+- **Sep 2018 - June 2022:** Zhejiang University (*B.S.*) GPA: 3.95/4.0; Rank: 4/20
 - **June 2021 - July 2021:** Queen’s University Belfast (Summer School, remote)
 
 

@@ -4,6 +4,7 @@ permalink: /publications/index.html
 title: Publications
 ---
 
+Lastest Update: 12/2023 &nbsp; [中文版 (Chinese Version)](https://HgZnCH3.github.io/file/publications-zh/)
 
 <br>
 
