@@ -42,7 +42,7 @@ In the [“15th Shanghai College Student Chemistry Experiment Competition”](ht
 <img src="/images/water_rocket_2.jpg" >
 <img src="/images/water_rocket_1.jpg" >
 </div>
-<font color='grey'>Left: Water rocket is being launched. Right: Group photo of all participants and staff in 2021 Water Rocket Competition of ZJU. (The sixth & seventh person from the right in the first row: Z.H. & L.H.)</font>
+<font color='grey'>Left: Water rocket is launching. Right: Group photo of all participants and staff in 2021 Water Rocket Competition of ZJU. (The sixth & seventh person from the right in the first row: Z.H. & L.H.)</font>
 <br>
 Water rockets use water and compressed air as engine power. Participants are required to use the same materials to manufacture water rockets and achieve the farthest flight distance.<br>
 <br>
@@ -80,7 +80,7 @@ Our rocket flew at a horizontal distance of **132.9 m** and **won first place!**
 <div>
 <img src="/images/TA_2.png" width="636" height="360">
 </div>
-<font color='grey'>I joined the team of the Academic Guidance Center and we recorded some videos to help young students with learning difficulties in the course of General Chemistry.</font>
+<font color='grey'>I joined the team of the Academic Guidance Center and we recorded [some videos](https://www.bilibili.com/video/BV1xE41167hw) to help young students with learning difficulties in the course of General Chemistry. As of May 2024, the series of videos has received 105k views.</font>
 <br>
 <br>
 ---
