@@ -29,7 +29,7 @@ title: Gallery
 </div>
 <font color='grey'>Left: Team photo (from the left: Z.H., C.H., Y.H.); Right: Gave Speech as an representative.</font>
 <br>
-In the [“15th Shanghai College Student Chemistry Experiment Competition”](http://chemcenter.zju.edu.cn/2021/1023/c41394a2433822/page.htm), I won the <font color='red'>First Place</font> and addressed as the representative of the award-winning student.
+In the [“15th Shanghai College Student Chemistry Experiment Competition”](http://chemcenter.zju.edu.cn/2021/1023/c41394a2433822/page.htm), I won the <font color='red'>First Place</font> and addressed as [the representative of the award-winning student](https://www.baidu.com/link?url=YFc24W2-5nxo2yafH_sM1ds4J2JLKFOEeKweT4Ss4LLwbInpGDUAtQ1gR1PRONWhaMWEjEXLZ3vWjqxsEQsBKQqmj9zJqbDn8Y33wvWCv1q&wd=&eqid=da9ab07c00371eb5000000056655ddbe).
 <br>
 <br>
 
