@@ -59,9 +59,10 @@ Our rocket flew at a horizontal distance of **132.9 m** and **won first place!**
 <img src="/images/lisheng-1.png" width="450" height="300">
 </div>
 <font color='grey'>We won the Second Prize in the 9th "Lisheng Cup" Chemistry Knowledge Competition of ZJU. This is a photo of our team during the competition. (The second & third person from the right: Z.H. & X.Z.)</font>
-<br>
-<br>
+<br><br>
+
 ---
+
 <br>
 
 ## Science Popularization
@@ -70,9 +71,10 @@ Our rocket flew at a horizontal distance of **132.9 m** and **won first place!**
 <img src="/images/primary_school_1.jpg" width="720" height="480">
 </div>
 <font color='grey'>I led pupils from Hangzhou Wenli Primary School and Zhejiang University Affiliated Second Primary School to conduct experiments.</font>
-<br>
-<br>
+<br><br>
+
 ---
+
 <br>
 
 ## Study Aids: Vedios for Young Students
@@ -83,7 +85,9 @@ Our rocket flew at a horizontal distance of **132.9 m** and **won first place!**
 <font color='grey'>I joined the team of the Academic Guidance Center and we recorded [some videos](https://www.bilibili.com/video/BV1xE41167hw) to help young students with learning difficulties in the course of General Chemistry. As of May 2024, the series of videos has received 105k views.</font>
 <br>
 <br>
+
 ---
+
 <br>
 
 ## Summer Teaching Support Team
@@ -96,9 +100,10 @@ Our rocket flew at a horizontal distance of **132.9 m** and **won first place!**
 In the summer of 2019, I went to Xulao Primary School in Anhui Province with Summer Teaching Support Team of Peasant Rural and Agriculture Association (PRAA) of ZJU. I spent 3 weeks there and acted as a fourth & fifth grade science teacher. Our team finally won the Gold Award for [“China Education Support Project: Chinese College Students Rural Teaching Support Award”](https://www.zhixingjihua.com/news_details.asp?classid=1&id=208) (only two teams nationwide won this prize).<br>
 <br>
 One thing I still remember is, once the sponsor required us to teach pupils about enzymes. In fact, this is something that middle school students learn. In order to help students understand the concept of enzymes, I came up with an idea and bought some pig liver from a small restaurant, which contains catalase and can decompose hydrogen peroxide. Adding pig liver and FeCl3 separately to hydrogen peroxide, the high efficiency of enzyme catalysis can be demonstrated by comparing the rate of bubble formation. As shown in the picture, all the students observed the experimental phenomenon with great enthusiasm and concentration.
-<br>
-<br>
+<br><br>
+
 ---
+
 <br>
 
 ## Volunteer Service
