@@ -82,7 +82,7 @@ Our rocket flew at a horizontal distance of **132.9 m** and **won first place!**
 <div>
 <img src="/images/TA_2.png" width="636" height="360">
 </div>
-<font color='grey'>I joined the team of the Academic Guidance Center and we recorded [some videos](https://www.bilibili.com/video/BV1xE41167hw) to help young students with learning difficulties in the course of General Chemistry. As of May 2024, the series of videos has received 105k views.</font>
+I joined the team of the Academic Guidance Center and we recorded [some videos](https://www.bilibili.com/video/BV1xE41167hw) to help young students with learning difficulties in the course of General Chemistry. As of May 2024, the series of videos has received 105k views.
 <br>
 <br>
 
