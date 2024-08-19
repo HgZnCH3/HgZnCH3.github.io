@@ -18,7 +18,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 **I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
 
-- **Sep 2022 - June 2025:** Zhejiang University (*M.S.*) GPA: 90.6/100; Rank: 1/80
+- **Sep 2022 - June 2025(expected):** Zhejiang University (*M.S.*) GPA: 90.6/100; Rank: 1/80
 - **Sep 2018 - June 2022:** Zhejiang University (*B.S.*) GPA: 3.95/4.0; Rank: 4/20
 - **June 2021 - July 2021:** Queen’s University Belfast (Summer School, remote)
 
